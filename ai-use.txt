@@ -1,0 +1,14 @@
+The AI tool used for this assignment is the built in copilot tool within GitHub Codespace
+
+AI Prompts used
+
+1) erate HTML code for form that can be used to collect login information. Include username and password fields and a login button. The login button must direct the user to card-list.php.
+2) erate code that lists information about a giftcard. The information will include the Gift Card.jpg image, text for card name and points required.
+3) erate code that will use description list to provide details about a giftcard. The decription must include the Gift Card.jpg image, card name, card description, card type, card value in dollars and the points required. Place card image at the top of the page in the center. Center the card name below the image. Below card name place the card description. Under the card description place the remaining information.
+
+AI supported the work by providing a platoform to further build from. Understanding the business requirements and wireframe layout made it easy to provide detailed prompts so that AI could return meaningful output.
+Understanding the structures needed for the HTML code was crutial in offering human oversight so that code could be edited to more closely meet design needs.
+AI also helped with editing the provided CSS sheet to add new classes to cover different page attributes.
+
+One example of AI suggestion that was changed was the output returned from the second promp.
+Even though it provided the code that listed the required information, edits had to be made to add the button and ensure it did what it was supposed to once clicked. Changes to the text generated were also made and adding the hyperling that would allow clicking the giftcard image to direct users to the Card Details page.
